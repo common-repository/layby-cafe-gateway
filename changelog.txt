@@ -1,0 +1,4 @@
+*** Layby Cafe for WooCommerce Changelog ***
+
+2021.02.04 - version 1.2.0
+ * Initial release

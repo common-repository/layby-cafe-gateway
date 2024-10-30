@@ -1,0 +1,349 @@
+# Copyright (C) 2021
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/layby-cafe-gateway\n"
+"POT-Creation-Date: 2021-02-03 00:40:40+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: node-wp-i18n 1.2.3\n"
+
+#: gateway-laybycafe.php:46
+msgid "Settings"
+msgstr ""
+
+#: gateway-laybycafe.php:47
+msgid "Support"
+msgstr ""
+
+#: gateway-laybycafe.php:48
+msgid "Docs"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe-privacy.php:12
+#: includes/class-wc-gateway-laybycafe.php:33
+#: includes/class-wc-gateway-laybycafe.php:112
+#: includes/class-wc-gateway-laybycafe.php:208
+msgid "LaybyCafe"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe-privacy.php:14
+msgid "WooCommerce LaybyCafe Order Data"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe-privacy.php:17
+msgid "WooCommerce LaybyCafe Subscriptions Data"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe-privacy.php:20
+msgid "WooCommerce LaybyCafe Data"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe-privacy.php:54
+msgid ""
+"By using this extension, you may be storing personal data or sharing data "
+"with an external service. <a href=\"%s\" target=\"_blank\">Learn more about "
+"how this works, including what you may want to include in your privacy "
+"policy.</a>"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe-privacy.php:77
+msgid "Orders"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe-privacy.php:81
+msgid "LaybyCafe token"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe-privacy.php:138
+msgid "Subscriptions"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe-privacy.php:142
+msgid "LaybyCafe subscription token"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe-privacy.php:223
+msgid "Order ID %d contains an active Subscription"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe-privacy.php:234
+msgid "LaybyCafe Subscriptions Data Erased."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe-privacy.php:253
+msgid "LaybyCafe Order Data Erased."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:35
+#. translators: 1: a href link 2: closing href
+msgid ""
+"LaybyCafe works by sending the user to %1$sLaybyCafe%2$s to enter their payment "
+"information."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:101
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:102
+msgid "Enable LaybyCafe"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:104
+msgid "This controls whether or not this gateway is enabled within WooCommerce."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:109
+msgid "Title"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:111
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:116
+msgid "Description"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:118
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:123
+msgid "LaybyCafe Sandbox"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:125
+msgid "Place the payment gateway in development mode."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:129
+msgid "Merchant ID"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:131
+msgid "This is the merchant ID, received from LaybyCafe."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:135
+msgid "Merchant Key"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:137
+msgid "This is the merchant key, received from LaybyCafe."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:141
+msgid "Passphrase"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:143
+msgid "* Required. Needed to ensure the data passed through is secure."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:147
+msgid "Send Debug Emails"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:149
+msgid ""
+"Send debug e-mails for transactions through the LaybyCafe gateway (sends on "
+"successful transaction as well)."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:153
+msgid "Who Receives Debug E-mails?"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:155
+msgid ""
+"The e-mail address to which debugging error e-mails are sent when in test "
+"mode."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:159
+msgid "Enable Logging"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:161
+msgid "Enable transaction logging for gateway."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:174
+msgid "Sandbox Merchant ID currently in use"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:175
+msgid "Sandbox Merchant Key currently in use"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:209
+msgid "Gateway Disabled"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:209
+#. translators: 1: a href link 2: closing href
+msgid ""
+"Choose South African Rands as your store currency in %1$sGeneral "
+"Settings%2$s to enable the LaybyCafe Gateway."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:240
+#. translators: 1: blog info name
+msgid "New order from %s"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:282
+msgid "Pay via LaybyCafe"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:282
+msgid "Cancel order &amp; restore cart"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:287
+msgid ""
+"Thank you for your order. We are now redirecting you to LaybyCafe to make "
+"payment."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:336
+msgid "Thank you for your order, please click the button below to pay with LaybyCafe."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:590
+msgid "Merchant cancelled subscription on LaybyCafe."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:606
+msgid "ITN payment completed"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:635
+#. translators: 1: gross amount 2: payment id
+msgid "LaybyCafe pre-order fee paid: R %1$s (%2$s)"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:643
+#. translators: 1: gross amount 2: payment id
+msgid "LaybyCafe pre-order product line total paid: R %1$s (%2$s)"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:676
+#: includes/class-wc-gateway-laybycafe.php:705
+#. translators: 1: payment status
+msgid "Payment %s via ITN."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:879
+#. translators: 1: error code 2: error message
+msgid "LaybyCafe Subscription renewal transaction failed (%1$s:%2$s)"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:882
+msgid "LaybyCafe Subscription renewal transaction submitted."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:969
+msgid "Can not submit LaybyCafe request with an empty token"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1106
+#. translators: 1: error code 2: error message
+msgid "LaybyCafe Pre-Order payment transaction failed (%1$s:%2$s)"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1149
+msgid "Amount mismatch"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1150
+msgid "Bad access of page"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1151
+msgid "Bad source IP address"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1152
+msgid "Failed to connect to LaybyCafe"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1153
+msgid "Security signature mismatch"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1154
+msgid "Merchant ID mismatch"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1155
+msgid "No saved session found for ITN transaction"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1156
+msgid "Order ID not present in URL"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1157
+msgid "Order ID mismatch"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1158
+msgid "This order ID is invalid"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1159
+msgid "Order Number mismatch"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1160
+msgid "This order has already been processed"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1161
+msgid "PDT query failed"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1162
+msgid "PDT token not present in URL"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1163
+msgid "Session ID mismatch"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1164
+msgid "Unkown error occurred"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1167
+msgid "Payment was successful"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1168
+msgid "Payment has failed"
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1169
+msgid ""
+"The payment is pending. Please note, you will receive another Instant "
+"Transaction Notification when the payment status changes to \"Completed\", "
+"or \"Failed\""
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:1337
+msgid "LaybyCafe requires a passphrase to work."
+msgstr ""
+
+#: includes/class-wc-gateway-laybycafe.php:236
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
